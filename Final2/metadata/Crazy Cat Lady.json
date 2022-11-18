@@ -1,6 +1,6 @@
 {
-  "name": "CryptoBengz Gen Z",
-  "description": "NFT Asset Detailed Description #1",
+  "name": "Crazy Cat Lady",
+  "description": "Cryptobengz GEN Z is the Grand Collection by Team Cryptobengz and the final edition of this local brand. Our collection includes utility-enabled collectibles that depict a variety of local Singaporean culture-inspired traits as seen through the team's eyes. Members of the Cryptobengz Genesis, Cryptobengz GEN Z and Cryptokakis will have access to exclusive airdrops, merchandise drops, merchant partnerships, and community events.  Our foundation is built on comm qunity and utility. Each Cryptobengz NFT unlocks access to the Cryptobengz Business-Utility Eco-system.    A home to call your own. Where you can relive your Ahbeng lifestyle through us again and again. Stay Real, Stay Huat    For more information, visit Cryptobengz.xyz",
   "attributes": [
     { "trait_type": "Background", "value": "Cat Paws" },
     { "trait_type": "Type", "value": "Minah (Malay Female)" },
@@ -11,14 +11,10 @@
     { "trait_type": "Clothes", "value": "Off-shoulder Sweater" },
     { "trait_type": "Accessory 1", "value": "Gamer Headphones" },
     { "trait_type": "Accessory 2", "value": "Pearl Necklace" },
-    { "trait_type": "Accessory 2", "value": "Cats" },
     { "trait_type": "Eyewear", "value": "NIL" },
     { "trait_type": "Mouth", "value": "NIL" },
     { "trait_type": "Hand", "value": "Cat's Scratch Board" }
   ],
-  "creators": [],
-  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
-  "symbol": "NFT",
-  "seller_fee_basis_points": 0,
-  "image": "__CID__"
+  "image": "https://ipfs.io/ipfs/bafybeidzakk2ilebrll5ducp46chark7jpqyngwx7n45xght5a7kquekki/Crazy Cat Lady.png",
+  "external_url": "https://cryptobengz.xyz/"
 }
