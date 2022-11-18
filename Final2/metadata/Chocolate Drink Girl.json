@@ -1,0 +1,23 @@
+{
+  "name": "CryptoBengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Chocolate Drink Van" },
+    { "trait_type": "Type", "value": "Minah (Malay Female)" },
+    { "trait_type": "Tattoos", "value": "NIL" },
+    { "trait_type": "Facial Feature 1", "value": "NIL" },
+    { "trait_type": "Facial Feature 2", "value": "NIL" },
+    { "trait_type": "Hair", "value": "Dark Green Hair" },
+    { "trait_type": "Clothes", "value": "Chocolate Drink Uniform" },
+    { "trait_type": "Accessory 1", "value": "Cap" },
+    { "trait_type": "Accessory 2", "value": "NIL" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "NIL" },
+    { "trait_type": "Hand", "value": "Chocolate Drink Cup" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}

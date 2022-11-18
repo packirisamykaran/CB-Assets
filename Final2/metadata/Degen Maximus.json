@@ -1,0 +1,23 @@
+{
+  "name": "CryptoBengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Purple LFG" },
+    { "trait_type": "Type", "value": "Anjek (Indian Male)" },
+    { "trait_type": "Tattoos", "value": "NIL" },
+    { "trait_type": "Facial Feature 1", "value": "Fiery Eyes" },
+    { "trait_type": "Facial Feature 2", "value": "Open Mouth" },
+    { "trait_type": "Hair", "value": "NIL" },
+    { "trait_type": "Clothes", "value": "NIL" },
+    { "trait_type": "Accessory 1", "value": "Burning Passion" },
+    { "trait_type": "Accessory 2", "value": "NIL" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "NIL" },
+    { "trait_type": "Hand", "value": "Degen Hands" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CryptoBengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Brown Plaid" },
+    { "trait_type": "Type", "value": "Ah Beng (Chinese Male)" },
+    { "trait_type": "Tattoos", "value": "NIL" },
+    { "trait_type": "Facial Feature 1", "value": "NIL" },
+    { "trait_type": "Facial Feature 2", "value": "NIL" },
+    { "trait_type": "Hair", "value": "Black Hair" },
+    { "trait_type": "Clothes", "value": "Rilakkuma Onesie" },
+    { "trait_type": "Accessory 1", "value": "A Warm Heart" },
+    { "trait_type": "Accessory 2", "value": "NIL" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "CB Mask" },
+    { "trait_type": "Hand", "value": "Fluffy Rilakkuma Paws" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}

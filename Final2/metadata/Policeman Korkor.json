@@ -1,0 +1,24 @@
+{
+  "name": "Cryptobengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Shop Theft Is A Crime!!" },
+    { "trait_type": "Type", "value": "Ah Beng (Chinese Male)" },
+    { "trait_type": "Tattoos", "value": "NIL" },
+    { "trait_type": "Facial Feature 1", "value": "NIL" },
+    { "trait_type": "Facial Feature 2", "value": "NIL" },
+    { "trait_type": "Hair", "value": "Black Short Hair" },
+    { "trait_type": "Clothes", "value": "Policemen Uniform" },
+    { "trait_type": "Accessory 1", "value": "Policemen Cap" },
+    { "trait_type": "Accessory 2", "value": "Body Cam" },
+    { "trait_type": "Accessory 3", "value": "Baton" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "NIL" },
+    { "trait_type": "Hand", "value": "Stop" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}

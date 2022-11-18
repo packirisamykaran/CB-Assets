@@ -1,0 +1,24 @@
+{
+  "name": "CryptoBengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Cat Paws" },
+    { "trait_type": "Type", "value": "Minah (Malay Female)" },
+    { "trait_type": "Tattoos", "value": "NIL" },
+    { "trait_type": "Facial Feature 1", "value": "Falsies" },
+    { "trait_type": "Facial Feature 2", "value": "NIL" },
+    { "trait_type": "Hair", "value": "Rose Gold Ponytail" },
+    { "trait_type": "Clothes", "value": "Off-shoulder Sweater" },
+    { "trait_type": "Accessory 1", "value": "Gamer Headphones" },
+    { "trait_type": "Accessory 2", "value": "Pearl Necklace" },
+    { "trait_type": "Accessory 2", "value": "Cats" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "NIL" },
+    { "trait_type": "Hand", "value": "Cat's Scratch Board" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}

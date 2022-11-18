@@ -1,0 +1,23 @@
+{
+  "name": "CryptoBengz Gen Z",
+  "description": "NFT Asset Detailed Description #1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Handphone Shop" },
+    { "trait_type": "Type", "value": "Ah Lian (Chinese Female)" },
+    { "trait_type": "Tattoos", "value": "Full Sleeve Tattoo" },
+    { "trait_type": "Facial Feature 1", "value": "Eyelash Extension" },
+    { "trait_type": "Facial Feature 2", "value": "Grey Contact Lens" },
+    { "trait_type": "Hair", "value": "Purple Ombre Hair" },
+    { "trait_type": "Clothes", "value": "Tube Top" },
+    { "trait_type": "Accessory 1", "value": "Extended Earlobe" },
+    { "trait_type": "Accessory 2", "value": "Gold Chain" },
+    { "trait_type": "Eyewear", "value": "NIL" },
+    { "trait_type": "Mouth", "value": "Cigeratte" },
+    { "trait_type": "Hand", "value": "NIL" }
+  ],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__"
+}
