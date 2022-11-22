@@ -4,7 +4,7 @@
 
 
 - upload images folder to pinata
-- get the url for the folder path and render out by images 
+- get the url for the folder path and render out by images
 - and replace the image path to the ipfs url , once done for all images
 
 - upload all metadata files
@@ -12,3 +12,9 @@
 once everything is on pinata send jon the baseURI check the metadata standard for this ipfs://<METADATA_ID/>
 
 
+
+to run the mix script configure your settings first in settings.py
+
+```python
+python3 Mixer.py
+```
